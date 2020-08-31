@@ -1,0 +1,3 @@
+test
+
+syns detta meddelande på min dator mha. git pull?
